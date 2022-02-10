@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "homepage": "https://pakj8.github.io/edvora_test",
   "private": true,
-  "proxy": "http://localhost:3000",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.2",
